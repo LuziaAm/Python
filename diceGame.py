@@ -1,7 +1,7 @@
 # This is a Dice Games Python.
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+# Press 1 to start the game.
+# Press other key to stop game.
 import random
 
 print("Clique 1 para Jogar - Clique em outra tecla para Sair ")
