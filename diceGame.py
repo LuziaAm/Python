@@ -1,6 +1,6 @@
 # This is a Dice Games Python.
 
-# Press 1 to start the game.
+# Press 1 on the keyboard to start the game.
 # Press other key to stop game.
 import random
 
