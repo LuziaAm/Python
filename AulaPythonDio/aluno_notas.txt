@@ -1,0 +1,4 @@
+Rafael,10,9,8,7
+Natalia,9,9,8,7
+Felipe,9,9,8,7
+Felipe,9,9,8,7
